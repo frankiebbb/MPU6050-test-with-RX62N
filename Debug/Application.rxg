@@ -1,0 +1,4 @@
+-cpu=rx600
+-output="D:\WorkSpace\YRDKRX62N_Test_INS\Application\Debug\Application.lib"
+-section=L=C
+-head=runtime,math,stdio,stdlib

@@ -1,0 +1,9 @@
+-cpu=rx600
+-lang=c99
+-include="D:\WorkSpace\YRDKRX62N_Test_INS\Application"
+-include="D:\WorkSpace\YRDKRX62N_Test_INS\Application\RPDL"
+-output=obj="D:\WorkSpace\YRDKRX62N_Test_INS\Application\Debug\timer_compare.obj"
+-debug
+-section=L=C
+"D:\WorkSpace\YRDKRX62N_Test_INS\Application\timer_compare.c"
+-nologo

@@ -1,0 +1,9 @@
+-cpu=rx600
+-lang=c99
+-include="D:\WorkSpace\YRDKRX62N_Test_INS\Application"
+-include="D:\WorkSpace\YRDKRX62N_Test_INS\Application\RPDL"
+-output=obj="D:\WorkSpace\YRDKRX62N_Test_INS\Application\Debug\Interrupt_not_RPDL.obj"
+-debug
+-section=L=C
+"D:\WorkSpace\YRDKRX62N_Test_INS\Application\RPDL\Interrupt_not_RPDL.c"
+-nologo
